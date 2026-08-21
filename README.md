@@ -1,73 +1,188 @@
-# 🚀 Priyanshu Sharma — Portfolio
+<div align="center">
 
-<p align="center"><b>AI Systems · Full-Stack Engineering · Problem Solving</b></p>
+# 🚀 PRIYANSHU SHARMA
+### AI Systems · Full-Stack Engineering · Problem Solving
+
+<p>
+  <a href="https://priyanshu710-ui.github.io/Portfolio/">🌐 <b>LIVE PORTFOLIO</b></a>
+  &nbsp;•&nbsp;
+  <a href="https://github.com/Priyanshu710-ui">GitHub</a>
+  &nbsp;•&nbsp;
+  <a href="https://leetcode.com/u/Priyanshhu710/">LeetCode</a>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,100:f59e0b&height=120&section=header&text=BUILD%20%E2%80%A2%20TEST%20%E2%80%A2%20DEPLOY%20%E2%80%A2%20ITERATE&fontSize=22&fontColor=ffffff" width="100%" />
+
+</div>
+
+## ⚡ About Me
+
+I’m a **B.Tech CSE student** focused on building practical AI systems and full-stack products — from agentic research workflows and RAG pipelines to real-time voice AI.
+
+I care about one thing more than flashy demos:
+
+> **Turning hard problems into software that actually works.**
+
+### 🎯 Current Focus
+
+- 🤖 Agentic AI workflows
+- 🧠 RAG & LLM applications
+- 🎙️ Real-time voice AI
+- 🌐 Full-stack product engineering
+- 🐳 Dockerized deployments
+- 🧩 Data Structures & Algorithms
+
+---
+
+## 🧠 Featured Systems
+
+<table>
+<tr>
+<td width="50%">
+
+### 🥇 AI Research Agent
+**Question → research → cited report**
+
+A multi-stage research system that plans queries, retrieves sources, synthesizes evidence, cites results, and exports reports.
+
+**Stack**
+`Next.js` `React` `FastAPI` `Python` `Gemini` `Tavily` `Docker`
+
+<a href="https://ai-research-agent-nine-steel.vercel.app">🚀 Live</a> · <a href="https://github.com/Priyanshu710-ui/AI-Research-Agent">💻 Source</a>
+
+</td>
+<td width="50%">
+
+### 🥈 Real-Time AI Voice Chat
+**Speak → interrupt → continue**
+
+A local voice pipeline using speech recognition, a local LLM, and text-to-speech with true barge-in handling.
+
+**Stack**
+`Python` `FastAPI` `Whisper` `Ollama` `Llama 3.2` `Docker`
+
+<a href="https://github.com/Priyanshu710-ui/Real-Time-AI-Voice-Chat">💻 Source</a>
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🥉 AI-Powered PDF Q&A
+**Upload → retrieve → answer**
+
+A RAG application that grounds answers in uploaded PDF content using chunking, embeddings, and vector search.
+
+**Stack**
+`Python` `Streamlit` `FAISS` `Sentence Transformers` `Groq`
+
+<a href="https://github.com/Priyanshu710-ui/-AI-Powered-PDF-Q-A-Tool">💻 Source</a>
+
+</td>
+<td width="50%">
+
+### 🎬 YouTube AI Summarizer
+**Watch less. Learn faster.**
+
+Transcript-grounded summaries with concise, bullet-point, and detailed output modes.
+
+**Stack**
+`Python` `Streamlit` `Groq` `Llama 3.1`
+
+<a href="https://github.com/Priyanshu710-ui/youtube-ai-summarizer">💻 Source</a>
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🛠️ Technical Arsenal
+
+| Area | Tools |
+|---|---|
+| **Languages** | Python · JavaScript · HTML · CSS |
+| **Frontend** | React · Next.js · Tailwind CSS · Streamlit |
+| **Backend** | FastAPI |
+| **AI / ML** | Google Gemini · Groq · Ollama · Whisper · FAISS · Sentence Transformers · Tavily |
+| **DevOps** | Docker · Docker Compose · Vercel · Render · Git · GitHub |
+| **Problem Solving** | Data Structures · Algorithms · LeetCode |
+
+---
+
+## 🧩 How I Build
+
+```text
+┌─────────┐
+│ Problem │
+└────┬────┘
+     ↓
+┌──────────────┐
+│ Break It Down│
+└────┬─────────┘
+     ↓
+┌────────┐
+│ Design │
+└────┬───┘
+     ↓
+┌───────┐
+│ Build │
+└───┬───┘
+     ↓
+┌──────┐
+│ Test │
+└──┬───┘
+   ↓
+┌────────┐
+│ Deploy │
+└───┬────┘
+    ↓
+┌─────────┐
+│ Iterate │
+└─────────┘
+```
+
+---
+
+## 📊 Engineering Snapshot
+
+<div align="center">
+
+| 🔥 | 🧠 | 🚀 | ⚙️ |
+|---|---|---|---|
+| **AI Systems** | **Full-Stack** | **Deployed Apps** | **DSA** |
+| Agentic AI · RAG | React · Next.js · FastAPI | Docker · Vercel · Render | LeetCode |
+
+</div>
+
+---
+
+## 🌐 Live Portfolio
+
+### **[🚀 OPEN MY LIVE PORTFOLIO](https://priyanshu710-ui.github.io/Portfolio/)**
+
+> Explore the full interactive portfolio, engineering journey, selected projects, technical stack, GitHub activity, and problem-solving profile.
+
+---
+
+## 🔗 Find Me Online
 
 <p align="center">
-  <a href="https://github.com/Priyanshu710-ui/Portfolio">📂 View Portfolio Repository</a>
+  <a href="https://priyanshu710-ui.github.io/Portfolio/">🌐 Portfolio</a>
   &nbsp; • &nbsp;
-  <a href="https://github.com/Priyanshu710-ui">GitHub</a>
+  <a href="https://github.com/Priyanshu710-ui">🐙 GitHub</a>
   &nbsp; • &nbsp;
-  <a href="https://leetcode.com/u/Priyanshhu710/">LeetCode</a>
+  <a href="https://leetcode.com/u/Priyanshhu710/">🧩 LeetCode</a>
 </p>
 
 ---
 
-## ⚡ About
+<div align="center">
 
-This repository contains my personal developer portfolio — a showcase of the systems I build and the engineering decisions behind them.
+### 💡 Build things that are useful. Make them real. Ship them.
 
-I'm a **B.Tech CSE student** focused on practical **AI systems** and **full-stack applications**. I enjoy agentic workflows, RAG pipelines, real-time AI, deployment, and algorithmic problem solving.
+**Priyanshu Sharma** · AI · Full-Stack · Problem Solving
 
-> **Build → Test → Deploy → Iterate.**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:f59e0b,100:111827&height=90&section=footer" width="100%" />
 
-## 🧠 Featured Projects
-
-### 01 — AI Research Agent
-Turns a natural-language question into a structured, source-backed report.
-
-**Stack:** Next.js · React · FastAPI · Python · Google Gemini · Tavily · Docker Compose
-
-🔗 [View Repository](https://github.com/Priyanshu710-ui/AI-Research-Agent)
-
-### 02 — Real-Time AI Voice Chat
-A local real-time voice conversation system with interruption and barge-in handling.
-
-**Stack:** Python · FastAPI · Whisper · Ollama · Llama 3.2 · Glow-TTS · Docker
-
-🔗 [View Repository](https://github.com/Priyanshu710-ui/Real-Time-AI-Voice-Chat)
-
-### 03 — AI-Powered PDF Q&A Tool
-A RAG application for grounded questions and answers over uploaded PDFs.
-
-**Stack:** Python · Streamlit · Sentence Transformers · FAISS · Groq · Llama 3.1
-
-🔗 [View Repository](https://github.com/Priyanshu710-ui/-AI-Powered-PDF-Q-A-Tool)
-
-### 04 — YouTube AI Summarizer
-A transcript-grounded tool for concise, bullet-point, or detailed video summaries.
-
-**Stack:** Python · Streamlit · Groq · Llama 3.1
-
-🔗 [View Repository](https://github.com/Priyanshu710-ui/youtube-ai-summarizer)
-
-## 🛠️ Tech Stack
-
-`Python` `JavaScript` `HTML` `CSS` `React` `Next.js` `FastAPI` `Streamlit` `Google Gemini` `Groq` `Ollama` `Whisper` `FAISS` `Docker` `Git` `GitHub`
-
-## 📂 Structure
-
-```text
-Portfolio/
-├── index.html
-└── README.md
-```
-
-## 🔗 Connect
-
-- **Portfolio Repository:** https://github.com/Priyanshu710-ui/Portfolio
-- **GitHub:** https://github.com/Priyanshu710-ui
-- **LeetCode:** https://leetcode.com/u/Priyanshhu710/
-
----
-
-<p align="center"><b>Thanks for stopping by.</b><br/>Built by <b>Priyanshu Sharma</b> ⚡</p>
+</div>
