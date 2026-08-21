@@ -1,7 +1,14 @@
 # 🚀 Priyanshu Sharma — Portfolio
 
 <p align="center"><b>AI Systems · Full-Stack Engineering · Problem Solving</b></p>
-<p align="center"><a href="https://github.com/Priyanshu710-ui">GitHub</a> • <a href="https://leetcode.com/u/Priyanshhu710/">LeetCode</a></p>
+
+<p align="center">
+  <a href="https://github.com/Priyanshu710-ui/Portfolio">📂 View Portfolio Repository</a>
+  &nbsp; • &nbsp;
+  <a href="https://github.com/Priyanshu710-ui">GitHub</a>
+  &nbsp; • &nbsp;
+  <a href="https://leetcode.com/u/Priyanshhu710/">LeetCode</a>
+</p>
 
 ---
 
@@ -57,6 +64,7 @@ Portfolio/
 
 ## 🔗 Connect
 
+- **Portfolio Repository:** https://github.com/Priyanshu710-ui/Portfolio
 - **GitHub:** https://github.com/Priyanshu710-ui
 - **LeetCode:** https://leetcode.com/u/Priyanshhu710/
 
