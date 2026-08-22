@@ -1,188 +1,106 @@
 <div align="center">
 
-# 🚀 PRIYANSHU SHARMA
+# Priyanshu
 ### AI Systems · Full-Stack Engineering · Problem Solving
 
 <p>
-  <a href="https://priyanshu710-ui.github.io/Portfolio/">🌐 <b>LIVE PORTFOLIO</b></a>
+  <a href="https://priyanshu710-ui.github.io/Portfolio/">Portfolio</a>
   &nbsp;•&nbsp;
   <a href="https://github.com/Priyanshu710-ui">GitHub</a>
   &nbsp;•&nbsp;
   <a href="https://leetcode.com/u/Priyanshhu710/">LeetCode</a>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,100:f59e0b&height=120&section=header&text=BUILD%20%E2%80%A2%20TEST%20%E2%80%A2%20DEPLOY%20%E2%80%A2%20ITERATE&fontSize=22&fontColor=ffffff" width="100%" />
-
 </div>
 
-## ⚡ About Me
+---
 
-I’m a **B.Tech CSE student** focused on building practical AI systems and full-stack products — from agentic research workflows and RAG pipelines to real-time voice AI.
+## About
 
-I care about one thing more than flashy demos:
+I am a B.Tech Computer Science student focused on building practical AI systems and full-stack applications. My work spans agentic workflows, retrieval-augmented generation, real-time AI interfaces, and production-oriented software engineering.
 
-> **Turning hard problems into software that actually works.**
+> **I enjoy turning complex ideas into reliable, usable software.**
 
-### 🎯 Current Focus
+## Current Focus
 
-- 🤖 Agentic AI workflows
-- 🧠 RAG & LLM applications
-- 🎙️ Real-time voice AI
-- 🌐 Full-stack product engineering
-- 🐳 Dockerized deployments
-- 🧩 Data Structures & Algorithms
+- Agentic AI and LLM workflows
+- RAG applications and information retrieval
+- Real-time voice AI
+- Full-stack product development
+- Containerized deployment with Docker
+- Data Structures and Algorithms
 
 ---
 
-## 🧠 Featured Systems
+## Featured Projects
 
-<table>
-<tr>
-<td width="50%">
+### AI Research Agent
+A multi-stage research system that plans queries, retrieves sources, synthesizes evidence, generates citations, and exports structured reports.
 
-### 🥇 AI Research Agent
-**Question → research → cited report**
+**Tech:** `Next.js` `React` `FastAPI` `Python` `Gemini` `Tavily` `Docker`
 
-A multi-stage research system that plans queries, retrieves sources, synthesizes evidence, cites results, and exports reports.
+[Live Demo](https://ai-research-agent-nine-steel.vercel.app) · [Source Code](https://github.com/Priyanshu710-ui/AI-Research-Agent)
 
-**Stack**
-`Next.js` `React` `FastAPI` `Python` `Gemini` `Tavily` `Docker`
+### Real-Time AI Voice Chat
+A local voice AI pipeline with speech recognition, local LLM inference, text-to-speech, and interruption handling.
 
-<a href="https://ai-research-agent-nine-steel.vercel.app">🚀 Live</a> · <a href="https://github.com/Priyanshu710-ui/AI-Research-Agent">💻 Source</a>
+**Tech:** `Python` `FastAPI` `Whisper` `Ollama` `Llama 3.2` `Docker`
 
-</td>
-<td width="50%">
+[Source Code](https://github.com/Priyanshu710-ui/Real-Time-AI-Voice-Chat)
 
-### 🥈 Real-Time AI Voice Chat
-**Speak → interrupt → continue**
+### AI-Powered PDF Q&A
+A retrieval-augmented application that answers questions using content retrieved directly from uploaded PDF documents.
 
-A local voice pipeline using speech recognition, a local LLM, and text-to-speech with true barge-in handling.
+**Tech:** `Python` `Streamlit` `FAISS` `Sentence Transformers` `Groq`
 
-**Stack**
-`Python` `FastAPI` `Whisper` `Ollama` `Llama 3.2` `Docker`
+[Source Code](https://github.com/Priyanshu710-ui/-AI-Powered-PDF-Q-A-Tool)
 
-<a href="https://github.com/Priyanshu710-ui/Real-Time-AI-Voice-Chat">💻 Source</a>
+### YouTube AI Summarizer
+A transcript-grounded summarization tool with multiple output styles for faster learning and content consumption.
 
-</td>
-</tr>
-<tr>
-<td width="50%">
+**Tech:** `Python` `Streamlit` `Groq` `Llama 3.1`
 
-### 🥉 AI-Powered PDF Q&A
-**Upload → retrieve → answer**
-
-A RAG application that grounds answers in uploaded PDF content using chunking, embeddings, and vector search.
-
-**Stack**
-`Python` `Streamlit` `FAISS` `Sentence Transformers` `Groq`
-
-<a href="https://github.com/Priyanshu710-ui/-AI-Powered-PDF-Q-A-Tool">💻 Source</a>
-
-</td>
-<td width="50%">
-
-### 🎬 YouTube AI Summarizer
-**Watch less. Learn faster.**
-
-Transcript-grounded summaries with concise, bullet-point, and detailed output modes.
-
-**Stack**
-`Python` `Streamlit` `Groq` `Llama 3.1`
-
-<a href="https://github.com/Priyanshu710-ui/youtube-ai-summarizer">💻 Source</a>
-
-</td>
-</tr>
-</table>
+[Source Code](https://github.com/Priyanshu710-ui/youtube-ai-summarizer)
 
 ---
 
-## 🛠️ Technical Arsenal
+## Technical Skills
 
-| Area | Tools |
+| Area | Technologies |
 |---|---|
-| **Languages** | Python · JavaScript · HTML · CSS |
-| **Frontend** | React · Next.js · Tailwind CSS · Streamlit |
+| **Languages** | Python, JavaScript, HTML, CSS |
+| **Frontend** | React, Next.js, Tailwind CSS, Streamlit |
 | **Backend** | FastAPI |
-| **AI / ML** | Google Gemini · Groq · Ollama · Whisper · FAISS · Sentence Transformers · Tavily |
-| **DevOps** | Docker · Docker Compose · Vercel · Render · Git · GitHub |
-| **Problem Solving** | Data Structures · Algorithms · LeetCode |
+| **AI / ML** | Gemini, Groq, Ollama, Whisper, FAISS, Sentence Transformers, Tavily |
+| **DevOps** | Docker, Docker Compose, Vercel, Render, Git, GitHub |
+| **Problem Solving** | Data Structures, Algorithms, LeetCode |
 
 ---
 
-## 🧩 How I Build
+## Development Approach
 
 ```text
-┌─────────┐
-│ Problem │
-└────┬────┘
-     ↓
-┌──────────────┐
-│ Break It Down│
-└────┬─────────┘
-     ↓
-┌────────┐
-│ Design │
-└────┬───┘
-     ↓
-┌───────┐
-│ Build │
-└───┬───┘
-     ↓
-┌──────┐
-│ Test │
-└──┬───┘
-   ↓
-┌────────┐
-│ Deploy │
-└───┬────┘
-    ↓
-┌─────────┐
-│ Iterate │
-└─────────┘
+Problem → Research → Design → Build → Test → Deploy → Iterate
 ```
 
----
-
-## 📊 Engineering Snapshot
-
-<div align="center">
-
-| 🔥 | 🧠 | 🚀 | ⚙️ |
-|---|---|---|---|
-| **AI Systems** | **Full-Stack** | **Deployed Apps** | **DSA** |
-| Agentic AI · RAG | React · Next.js · FastAPI | Docker · Vercel · Render | LeetCode |
-
-</div>
+I focus on understanding the problem first, building a practical solution, testing the important paths, and shipping software that can actually be used.
 
 ---
 
-## 🌐 Live Portfolio
-
-### **[🚀 OPEN MY LIVE PORTFOLIO](https://priyanshu710-ui.github.io/Portfolio/)**
-
-> Explore the full interactive portfolio, engineering journey, selected projects, technical stack, GitHub activity, and problem-solving profile.
-
----
-
-## 🔗 Find Me Online
+## Connect
 
 <p align="center">
-  <a href="https://priyanshu710-ui.github.io/Portfolio/">🌐 Portfolio</a>
-  &nbsp; • &nbsp;
-  <a href="https://github.com/Priyanshu710-ui">🐙 GitHub</a>
-  &nbsp; • &nbsp;
-  <a href="https://leetcode.com/u/Priyanshhu710/">🧩 LeetCode</a>
+  <a href="https://priyanshu710-ui.github.io/Portfolio/">Portfolio</a>
+  &nbsp;•&nbsp;
+  <a href="https://github.com/Priyanshu710-ui">GitHub</a>
+  &nbsp;•&nbsp;
+  <a href="https://leetcode.com/u/Priyanshhu710/">LeetCode</a>
 </p>
-
----
 
 <div align="center">
 
-### 💡 Build things that are useful. Make them real. Ship them.
+**Priyanshu**
 
-**Priyanshu Sharma** · AI · Full-Stack · Problem Solving
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:f59e0b,100:111827&height=90&section=footer" width="100%" />
+Building intelligent systems. Shipping useful software.
 
 </div>
