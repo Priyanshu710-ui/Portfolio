@@ -1,0 +1,1 @@
+This portfolio rebuild uses original implementation and Priyanshu's own content. It is designed to reproduce a futuristic interactive portfolio experience without copying unlicensed third-party source code or personal assets.
